@@ -1,0 +1,21 @@
+{
+  "name": "programacio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ejercicios13.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adriancoreas/arrays.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adriancoreas/arrays/issues"
+  },
+  "homepage": "https://github.com/Adriancoreas/arrays#readme"
+}
